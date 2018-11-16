@@ -10,10 +10,7 @@ public Lars(String name){
 }
 
 public void larsAnimation(){
- // animation0();
   animation();
- // animation2();
- // animation3();
  setAllWhite();
 }
 
