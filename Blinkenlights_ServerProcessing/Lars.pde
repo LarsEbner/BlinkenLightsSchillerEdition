@@ -22,7 +22,7 @@ public void animation(){
         for(int row=3; row>=1;row--){
         lightMatrix.getLight(col, row).setColor(new Color (i));
         lightMatrix.getLight(col,row).sendCurrentColor();
-        delay (10000);
+        delay (3000);
 
       }
   }
